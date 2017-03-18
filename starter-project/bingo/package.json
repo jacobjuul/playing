@@ -1,0 +1,11 @@
+{
+  "name": "bingo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundle.js",
+  "scripts": {
+    "live": "elm-live Bingo.elm --open --output=bundle.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
